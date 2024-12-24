@@ -9,7 +9,7 @@ const nextConfig = {
   i18n,
   trailingSlash: true,
   images: {
-    domains: ["airtable.com", "dl.airtable.com", "v5.airtableusercontent.com", "shardeum.org"],
+    domains: ["airtable.com", "dl.airtable.com", "v5.airtableusercontent.com", "websitecndl.vercel.app"],
   },
   async redirects() {
     return [

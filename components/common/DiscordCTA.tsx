@@ -3,7 +3,7 @@ import React from "react";
 const DiscordCTA = () => {
   return (
     <a
-      href="https://bit.ly/shardeum-discord"
+      href="https://discord.gg/VUZ3fQ57xB"
       target="_blank"
       rel="noreferrer"
       className="discord-btn-cta"
